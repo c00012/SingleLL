@@ -7,5 +7,7 @@
 
 import Foundation
 
-print("Hello, World!")
+var List1 = SingleLL()
+
+List1.Create()
 
